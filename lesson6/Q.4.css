@@ -1,0 +1,23 @@
+
+.line1
+{
+    font-family: montserrat;
+    font-size: 30px;
+    text-align:center;
+    color: black;
+    margin-bottom: 0px;
+
+}
+.line2
+{
+    font-family: montserrat;
+    text-align:center;
+    margin-bottom: 10px;
+    margin-top: 0px;
+
+}
+.line3
+{
+text-align:center;
+text-decoration: underline;    
+}
