@@ -1,0 +1,16 @@
+img
+{
+    width: 300px;
+   margin-left: 150px;
+   margin-bottom: 10px;
+   display: block;
+}
+input{
+
+    border-radius: 10px;
+    margin-left: 200px;
+   margin-bottom: 10px;
+   padding-right: 20px;
+  padding-left: 20px;
+  
+}
